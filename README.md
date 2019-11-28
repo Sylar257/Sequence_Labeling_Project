@@ -6,7 +6,7 @@ Acknowledgement, this repo is heavy guided by [sgrvinod](https://github.com/sgrv
 
 ## Overview
 
-*   [***Model architecture***](https://github.com/Sylar257/Sequence_Labeling_Project###Architecture) 
+*   [***Model architecture***](https://github.com/Sylar257/Sequence_Labeling_Project###architecture) 
 *   Deep dive into various techniques
 *   PyTorch realization
 *   Sequence tagging and surgical robotics vision
