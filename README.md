@@ -132,6 +132,15 @@ During inference time, since we are not naively predicting labels based on **emi
 
 ## Realization
 
+The code is realized with PyTorch in [this file](https://github.com/Sylar257/Sequence_Labeling_Project/blob/master/Sequence_labeling_project.ipynb) in the repo.
 
+Since it’s a replica of the original implementation of the paper, we are going to test on the same benchmark dataset: the CoNLL 2003 NER dataset (Tjong Kim Sang and De Meulder 2003). 
+
+The only minor modification we will be making is to the `learning_rate`. Instead of gradually decaying the `leraning_rate` based on the current `epochs`, we will apply [learning rate annealing](https://arxiv.org/pdf/1608.03983.pdf) technique. More specifically, a `cosine` annealing as shown below:
+
+![cosine_annealing](images/cosine_annealing.png)
 
 ## Surgical_robotics_vision
+
+This part will be completed when I start uploading my [Surgical robotics vision project]().
+
