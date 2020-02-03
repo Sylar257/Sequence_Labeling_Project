@@ -4,12 +4,14 @@ Linguistic *sequence labeling* is a general approach encompassing a verity of pr
 
 Acknowledgement, this repo is heavy guided by [sgrvinod](https://github.com/sgrvinod)‘s tutorial and also a few ideas that I have learned from the [FastAI course v3](https://course.fast.ai/).
 
+![NER](images/NER.jpg)
+
 ## Overview
 
-*   [***Model architecture***](https://github.com/Sylar257/Sequence_Labeling_Project#architecture) 
-*   [***Deep dive into various techniques***](https://github.com/Sylar257/Sequence_Labeling_Project#techniques)
-*   [***PyTorch realization***](https://github.com/Sylar257/Sequence_Labeling_Project#realization)
-*   [***Sequence tagging and surgical robotics vision***](https://github.com/Sylar257/Sequence_Labeling_Project#surgical_robotics_vision)
+*   [***Model architecture***](https://sylar257.github.io/Sequence_Labeling_Project/#architecture) 
+*   [***Deep dive into various techniques***](https://sylar257.github.io/Sequence_Labeling_Project/#techniques)
+*   [***PyTorch realization***](https://sylar257.github.io/Sequence_Labeling_Project/#realization)
+*   [***Sequence tagging and surgical robotics vision***](https://sylar257.github.io/Sequence_Labeling_Project/#surgical_robotics_vision)
 
 ## Architecture
 
